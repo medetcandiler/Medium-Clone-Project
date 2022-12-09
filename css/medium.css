@@ -1,0 +1,46 @@
+#Staycurious{
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+body{
+    height: 100000px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+.height-500{
+    height: 500px;
+}
+.fs-xl{
+    font-size: x-large;
+}
+.fs-xxl{
+    font-size: xx-large;
+}
+.fs-lg{
+    font-size: large;
+}
+.fs-sm{
+    font-size: small;
+}
+.fs-xs{
+    font-size: xx-small;
+}
+.fs-article-title{
+    font-size: 22px;
+}
+.fw-700{
+    font-weight: 700;
+}
+
+.border-bottom-dark{
+    border-bottom: 2px solid black
+}
+.nav-text-color{
+    color: rgba(41, 41, 41, 1);
+}
+.fw-lght{
+    font-weight: 100;
+}
