@@ -1,0 +1,12 @@
+.bg-medium{
+    background-color: orange;
+}
+.rounded-50{
+    border-radius: 50%; 
+}
+.fs-small{
+    font-size: small;
+}
+.fs-medium{
+    font-size: medium;
+}
