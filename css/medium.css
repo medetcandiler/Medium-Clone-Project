@@ -1,10 +1,15 @@
+
+
 #Staycurious{
     font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 body{
-    height: 100000px;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
+}
+
+.mt-75{
+    margin-top: 72px;
 }
 
 
@@ -36,7 +41,7 @@ body{
 }
 
 .border-bottom-dark{
-    border-bottom: 2px solid black
+    border-bottom: 1px solid black
 }
 .nav-text-color{
     color: rgba(41, 41, 41, 1);
